@@ -17,3 +17,4 @@
   * [Zengine](https://github.com/zacharycarter/zengine/tree/a9e30eb771553cb572af5df8c7ca89f6661e5e50)
     Game engine example
   
+## [Nim types (originally a Reddit reply) by PMunch](https://peterme.net/nim-types-originally-a-reddit-reply.html)
